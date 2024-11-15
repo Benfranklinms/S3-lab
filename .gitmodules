@@ -1,0 +1,6 @@
+[submodule "Ds in c"]
+	path = Ds in c
+	url = https://github.com/Benfranklinms/Ds-in-c.git
+[submodule "Oops in java"]
+	path = Oops in java
+	url = https://github.com/Benfranklinms/Oops-in-java.git
